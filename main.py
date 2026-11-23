@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Write one dad joke to /output/entry.txt.
 
-Deterministic, stdlib only, no network. One line, at most 200 characters.
+Deterministic, stdlib only, no network. One line, at most 200 characters:
+a family intervention, and the pun lands on "pun-ishment" at the end.
 """
 
 import os
